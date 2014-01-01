@@ -1,8 +1,7 @@
-#PhD Tips
+#Dissertation Tips
+from [@katychuang][1]
 
-Notes from [@katychuang][1]
-
-This is a collection of resources for phd students and those who need advice on completing their dissertation. 
+This is a collection of resources to help PhD students complete their dissertation successfully.
 
 ###Blogs on dissertation process
 
@@ -31,3 +30,4 @@ http://protoscholar.com/
 # Links
 
 [1]: http://twitter.com/katychuang
+
