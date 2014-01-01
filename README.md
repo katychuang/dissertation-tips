@@ -1,7 +1,7 @@
 #Dissertation Tips
 from [@katychuang][1]
 
-This is a collection of resources to help PhD students complete their dissertation successfully.
+This is a collection of resources to help PhD students complete their dissertation successfully. It is a work in progress and some links might be broken. 
 
 ###Blogs on dissertation process
 
