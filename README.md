@@ -5,15 +5,15 @@ This is a collection of resources to help PhD students complete their dissertati
 
 ###Blogs on dissertation process
 
-http://jovanevery.ca/
-http://www.academicproductivity.com/
-http://academiclifehacker.wordpress.com/
-http://academhack.outsidethetext.com/home/category/blog/
-http://completeyourdissertation.com/blog/
-http://eebatou.wordpress.com/
-http://thethesiswhisperer.wordpress.com/
-http://calnewport.com/blog/
-http://protoscholar.com/
+* http://jovanevery.ca/
+* http://www.academicproductivity.com/
+* http://academiclifehacker.wordpress.com/
+* http://academhack.outsidethetext.com/home/category/blog/
+* http://completeyourdissertation.com/blog/
+* http://eebatou.wordpress.com/
+* http://thethesiswhisperer.wordpress.com/
+* http://calnewport.com/blog/
+* http://protoscholar.com/
 
 ###Books on Dissertation Process & Research
 
