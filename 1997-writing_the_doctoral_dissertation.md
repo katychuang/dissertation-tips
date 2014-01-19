@@ -149,7 +149,98 @@ Make a comparison table with these fields for literature review:
 9. If yes, what can be dropped/reduced to make project of manageable dimensions?
 10. Is dissertation portable?
 
+**Preparing time estimate**
 
+Example of estimating time after topic is selected and during refining of proposal. 
+
+>     1. define the expected dissertation structure (major chapters and sections within chapters as being prepared for the proposal);
+>     2. estimate the page length by chapter;
+>     3. estimate tasks;
+>     4. estimate times by task;
+>    5. estimate elapsed time.
+
+1. Refining of dissertation structure
+					Estimate in work hours
+Preparation of revised proposal  low estimate  high estimate
+Detailed outline of dissertation low estimate  high estimate
+
+2. Further Search of Literature for prior research
+
+Sources to be searched		Est. # to be searched	Standard Estimate Student Estimate	Total Work Hours
+Journal Articles		_____________________		 1	  _______________	________________
+Books				____________________		10	  _______________ 	________________
+Dissertations			____________________		10	  _______________ 	________________
+Government Documents		____________________		 3	  _______________ 	________________
+Other search			____________________			  _______________ 	________________
+
+3. Research Activities
+										Est. Work Hours
+Examining supporting literature (use 5-6 hours per 100 pages)			______
+Preparing istrument for collecting data (questionnaire,
+	  simulation, or experiment)						______
+Obtaining agreement of organizations, groups, and/or individuals
+	  to participate as subjects						______
+Testing instrument or procedures for collecting data				______
+Collecting data (running experiment, doing questionnaires, 
+	   observations, etc.)							______
+Analyzing data (including all preparation for analysis)				______
+Developing concepts and theories						______
+Analyzing results								______
+Other										______
+
+								Total		______
+
+4. Writing, editing, rewriting, and proofreading
+						Work Hours per page
+Chapter	    Approximate Title	Est. Pgs	Std. Est.  Rev Est.	Hrs per Chapter
+______	    _________________	_______		   4 	   _______	______________
+______	    _________________	_______		   4 	   _______	______________
+______	    _________________	_______		   4 	   _______	______________
+______	    _________________	_______		   4 	   _______	______________
+______	    _________________	_______		   4 	   _______	______________
+______	    _________________	_______		   4 	   _______	______________
+______	    _________________	_______		   4 	   _______	______________
+______	    _________________	_______		   4 	   _______	______________
+	    Conclusion		_______		   8	   _______	______________
+	    Bibliography	_______		   6	   _______	______________
+	    Appendices		_______		 ____	   _______	______________
+
+
+5. Total Estimated Work Hours
+
+Refining of dissertation structure			______
+Further search of literature for prior research		______
+Research activities	     	       			______
+Writing, editing, rewriting, and proofreading		______
+	 	  	     	 	Total Hours	______
+
+6. Estimated Completion Date
+							Month     Year
+Starting date for completion estimate			_______ ______
+Working time in elapsed months				_______ ______
+	(Total estimated work hours / 175) * ( 1 / % of time devoted to thesis)
+Estimated completion time (no delays) 	       	     	_______ ______
+Delays expected:     	      Months
+  Data collection delays      ______
+  Data analysis delays	      ______
+  Chapter reading delays      ______
+  Final reading delays	      ______
+  Typing and printing delays  ______
+  Other delays	      	      ______
+
+Estimated final completion date (ready for defense)	_______ ______
+
+*Note: scheduling the research and writing activities can be expressed in a Gantt Chart
+
+7. Critical Review Dates
+
+   * Review of final proposal
+   * Review of methodology or aproach
+   * Review of questionnaire and sampling plan
+   * Review of test sample results
+   * Review of revised sampling
+   * Review of draft of Chapter 1
+   * Review of revised Chapter 1
 
 ---
 
