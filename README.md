@@ -6,14 +6,14 @@ This is a collection of resources to help PhD students complete their dissertati
 ###Blogs on dissertation process
 
 * http://jovanevery.ca/
-* http://www.academicproductivity.com/
-* http://academiclifehacker.wordpress.com/
+* [Academic Productivity](http://www.academicproductivity.com/)
+* [Academic Life Hacker](http://academiclifehacker.wordpress.com/)
 * http://academhack.outsidethetext.com/home/category/blog/
 * http://completeyourdissertation.com/blog/
 * http://eebatou.wordpress.com/
-* http://thethesiswhisperer.wordpress.com/
+* [The Thesis Whisperer](http://thethesiswhisperer.wordpress.com/)
 * http://calnewport.com/blog/
-* http://protoscholar.com/
+* [Proto Scholar](http://protoscholar.com/)
 
 ###Books on Dissertation Process & Research
 
@@ -24,10 +24,10 @@ This is a collection of resources to help PhD students complete their dissertati
 * Single, Peg. 2009. Demystifying dissertation writing : a streamlined process from choice of topic to final text. 1st ed. Sterling Va.: Stylus.  
 * Reis, R. M. (1997). Tomorrow’s professor: preparing for academic careers in science and engineering. New York: IEEE Press.
 
-
+[Helpful Links][2]
 ---
 
 # Links
 
 [1]: http://twitter.com/katychuang
-
+[2]: http://cci.drexel.edu/faculty/sgasson/IS-readings.html
