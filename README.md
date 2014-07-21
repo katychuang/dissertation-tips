@@ -24,7 +24,8 @@ This is a collection of resources to help PhD students complete their dissertati
 * Single, Peg. 2009. Demystifying dissertation writing : a streamlined process from choice of topic to final text. 1st ed. Sterling Va.: Stylus.  
 * Reis, R. M. (1997). Tomorrow’s professor: preparing for academic careers in science and engineering. New York: IEEE Press.
 
-[Helpful Links][2]
+[Interesting Readings For IS Researchers and Doctoral Students][2]
+
 ---
 
 # Links
